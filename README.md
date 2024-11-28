@@ -1,7 +1,6 @@
 ## Hello, my name is ZtereoHYPE.
 
-I'm a Java/JS developer looking into exploring and understanding other branches of computing science.
+I'm a developer looking into exploring and understanding rendering and low-level computing.
 
-Minecraft (popular 2011 videogame) is cool.
+Minecraft (popular 2011 videogame) is cool, so I made a couple mods for it.
 
-The main things I wanna explore right now are rendering and low-level computing, so keep an eye out for potential projects in that area :)
