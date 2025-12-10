@@ -1,4 +1,4 @@
-## Hello, my name is ZtereoHYPE.
+## Hello
 
 I'm a developer looking into exploring and understanding rendering and low-level computing.
 
